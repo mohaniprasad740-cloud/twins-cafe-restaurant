@@ -1,0 +1,6 @@
+{
+  "name": "Twins Cafe & Restaurant - City Centre Durgapur",
+  "description": "Experience delicious pizzas, momos, juicy burgers, Chinese specials, and artisanal coffee at Twins Cafe & Restaurant in City Centre, Durgapur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
